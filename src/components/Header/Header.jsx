@@ -7,7 +7,6 @@ import {
   } from 'react-native';
   import React, { useState } from 'react';
   import FontAwesome from 'react-native-vector-icons/FontAwesome';
-  import EvilIcons from 'react-native-vector-icons/EvilIcons'
   import { useNavigation } from '@react-navigation/native';
   import { useSafeAreaInsets } from 'react-native-safe-area-context';
   
